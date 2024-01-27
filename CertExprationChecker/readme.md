@@ -1,0 +1,1 @@
+In this repo you can check all domains certificate end date and used TLS version.
